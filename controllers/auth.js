@@ -1,4 +1,3 @@
-
 const userModel = require('../models/auth')
 const jwt = require('jsonwebtoken')
 

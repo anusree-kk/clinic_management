@@ -1,4 +1,3 @@
-
 const { makeDb } = require('../databaseConnect')
 
 async function registerUser(userInfo) {
